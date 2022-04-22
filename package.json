@@ -1,0 +1,13 @@
+{
+  "name": "delog",
+  "version": "1.0.0",
+  "description": "Custom answers for feedback",
+  "main": "./src/app.js",
+  "type": "module",
+  "scripts": {
+    "test": "node ./src/app.js"
+  },
+  "keywords": [],
+  "author": "Rodrigo Buttura <rodrigovbuttura@gmail.com>",
+  "license": "MIT"
+}
